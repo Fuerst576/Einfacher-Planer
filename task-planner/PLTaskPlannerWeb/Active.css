@@ -1,0 +1,358 @@
+﻿
+/* ==============================
+   Allgemein
+   ============================== */
+body {
+    margin: 0;
+    padding: 10vh;
+    background-color: #bdbdbd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.login-body {
+    padding: 0;
+    background-color: #777777;
+}
+
+
+/* ==============================
+   Überschriften
+   ============================== */
+
+h1 {
+    font-size: 14px;
+    font-weight: normal;
+    margin: 0 0 20px 0;
+}
+
+h2 {
+    font-size: 13px;
+    font-weight: normal;
+}
+
+
+
+/* ==============================
+   Login / Registrierung
+   ============================== */
+
+.login-container {
+    width: 40vw;
+    height: 25vh;
+    min-height: 200px;
+    margin: auto auto 15px auto;
+    padding: 30px 0px;
+    background-color: #bdbbbb;
+    border: 1px solid #555555;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+/* Überschrift Login/Register */
+
+.login-h1 {
+    font-size: 5vh;
+    margin: 10vh 0 10px 0;
+    text-align: center;
+}
+
+
+/* Eingabefelder */
+
+.input {
+    display: block;
+    width: 30vw;
+    height: 5vh;
+    margin: 0 auto 30px auto;
+    padding: 3px 8px;
+    background-color: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 15px;
+    font-size: 24px;
+}
+
+
+    /* Placeholder */
+
+    .input::placeholder {
+        color: #bdbdbd;
+    }
+
+
+/* Login / Registrieren Button */
+
+.button {
+    display: block;
+    margin: 10px auto 10px auto;
+    padding: 10px;
+    background-color: #999999;
+    color: #ffffff;
+    border: none;
+    border-radius: 10px;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+
+/* Links */
+
+.login-link {
+    text-align: center;
+}
+
+.login-label {
+    display: block;
+    font-size: 18px;
+}
+
+.login-container a {
+    display: block;
+    font-size: 18px;
+    text-decoration: underline;
+}
+
+
+/* ==============================
+   Aufgabenliste
+   ============================== */
+
+
+/* Aufgabenüberschrift */
+
+.task-page h1 {
+    font-size: 5vh;
+    margin: 0;
+}
+
+
+/* Neue Aufgabe Button */
+
+.new-task-button {
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    border-radius: 6px;
+    height: 30px;
+    padding: 0 8px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+    .new-task-button:hover {
+        background-color: #dddddd;
+    }
+
+
+/* Kategorie */
+
+.category-label {
+    font-size: 9px;
+    margin-left: 8px;
+}
+
+
+/* Kategorie Dropdown */
+
+.category-dropdown {
+    position: absolute;
+    right: 480px;
+    width: 100px;
+    height: 30px;
+    padding: 0 8px;
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    border-radius: 6px;
+    font-size: 15px;
+}
+
+
+/* ==============================
+   Einzelne Aufgabe
+   ============================== */
+
+.task {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 60px;
+    margin-bottom: 4px;
+    padding: 0px 6px;
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+
+
+/* Titel */
+
+.task-title {
+    font-size: 25px;
+    font-weight: normal;
+}
+
+
+    /* Link zum Detail */
+
+    .task-title a,
+    .task h3 a {
+        color: #111111;
+        text-decoration: none;
+    }
+
+        .task-title a:hover,
+        .task h3 a:hover {
+            color: #888888;
+        }
+
+
+/* Info/Delite */
+
+.task-info {
+    position: absolute;
+    right: 80px;
+    display: flex;
+    align-items: center;
+}
+
+.task-options {
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.task-options-category{
+    width:200px;
+}
+
+.task-options .img {
+    height: 30px;
+}
+/* ==============================
+   Neue Aufgabe / Detailseite
+   ============================== */
+
+.form-page {
+    width: 307px;
+    min-height: 200px;
+    margin: 30px auto;
+    padding: 16px 20px;
+    background-color: #e8e8e8;
+    border: 1px solid #555555;
+    border-radius: 10px;
+}
+/* Zurück-Link */
+
+.back-link {
+    display: block;
+    margin-bottom: 14px;
+    font-size: 20px;
+    color: #222222;
+    text-decoration: underline;
+}
+
+
+/* Textfelder */
+
+.form-input {
+    padding: 7px;
+    resize: none;
+    background-color: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+/* Beschreibung */
+
+.form-textarea {
+    width: 100%;
+    min-height: 76px;
+    padding: 7px;
+    resize: none;
+    background-color: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+}
+/* Datum */
+
+.form-date {
+    padding: 7px;
+    background-color: #ffffff;
+    border: 1px solid #d0d0d0;
+    border-radius: 5px;
+    font-size: 24px;
+}
+/* Dropdown */
+
+.form-dropdown {
+    padding: 7px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    font-size: 24px;
+}
+/* ==============================
+   Erstellen / Speichern Button
+   ============================== */
+
+.form-button {
+    background-color: #ffffff;
+    border: 1px solid #777777;
+    border-radius: 6px;
+    height: 30px;
+    padding: 0 8px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+    .form-button:hover {
+        background-color: #888888;
+    }
+
+
+
+
+
+
+
+
+.task-row {
+    display: flex;
+    gap: 20px;
+    align-items: flex-end;
+    width: 100%;
+    max-width: 1000px;
+}
+
+.task-field {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    flex: 1;
+}
+
+    .task-field label {
+        font-weight: bold;
+    }
+
+    .task-field .form-input,
+    .task-field .form-dropdown,
+    .task-field .form-date {
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+.description-field {
+    width: 100%;
+    max-width: 1000px;
+}
+
+    .description-field .form-textarea {
+        width: 100%;
+        box-sizing: border-box;
+        resize: vertical;
+    }
+
