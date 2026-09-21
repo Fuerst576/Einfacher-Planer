@@ -1,0 +1,18 @@
+C:\Users\danie\source\repos\DBTaskPlanner\bin\Debug\DBTaskPlanner.dll
+C:\Users\danie\source\repos\DBTaskPlanner\bin\Debug\DBTaskPlanner.pdb
+C:\Users\danie\source\repos\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DBTaskPlanner\obj\Debug\DBTaskPlanner.dll
+C:\Users\danie\source\repos\DBTaskPlanner\obj\Debug\DBTaskPlanner.pdb
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\bin\Debug\DBTaskPlanner.dll
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\bin\Debug\DBTaskPlanner.pdb
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.dll
+C:\Users\lukas\Downloads\task-planner (1)\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.pdb
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\bin\Debug\DBTaskPlanner.dll
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\bin\Debug\DBTaskPlanner.pdb
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.dll
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\DBTaskPlanner\obj\Debug\DBTaskPlanner.pdb
