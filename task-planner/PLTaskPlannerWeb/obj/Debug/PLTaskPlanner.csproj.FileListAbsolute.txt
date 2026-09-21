@@ -1,0 +1,4 @@
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\PLTaskPlannerWeb\obj\Debug\PLTaskPlanner.csproj.AssemblyReference.cache
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\PLTaskPlannerWeb\obj\Debug\PLTaskPlanner.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\PLTaskPlannerWeb\obj\Debug\PLTaskPlannerWeb.dll
+C:\Users\lukas\Downloads\task-planner (1)\1.9.2026\task-planner\PLTaskPlannerWeb\obj\Debug\PLTaskPlannerWeb.pdb
